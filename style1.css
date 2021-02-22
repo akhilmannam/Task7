@@ -1,0 +1,35 @@
+#heading{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#headline{
+    font-size: 100px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+#mainart{
+    display: flex;
+    justify-content: space-between;
+}
+
+p.tag{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+img.main{
+    height: 100%;
+    width: 100%;
+}
+
+
+.col-4{
+    text-align: justify;
+}
+
+#other {
+    border-bottom: 2px solid black;
+}
